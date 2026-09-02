@@ -1,4 +1,4 @@
-youxuan.cf.090227.xyz#节点更新时间：2026/9/3/5:45 | 更新间隔：每10分钟1次
+youxuan.cf.090227.xyz#节点更新时间：2026/9/3/7:36 | 更新间隔：每10分钟1次
 ct.877774.xyz#⚡ 电信极速
 cmcc.877774.xyz#⚡ 移动极速
 cu.877774.xyz#⚡ 联通极速
@@ -13,33 +13,52 @@ www.visa.cn#Visa中国
 store.ubi.com#Ubisoft
 www.shopify.com#Shopify官方
 staticdelivery.nexusmods.com#NexusMods
-8.35.211.68#电信
-8.35.211.160#电信
-8.35.211.180#电信
-104.18.33.167#电信
-104.17.145.138#电信
-104.17.146.246#电信
-172.66.0.91#移动
-104.17.24.71#移动
-91.193.58.24#移动
-104.18.33.252#移动
-104.17.174.192#移动
-104.17.168.143#移动
-104.19.148.189#移动
-104.17.116.211#移动
-104.26.7.30#联通
-104.26.6.80#联通
-104.26.10.14#联通
-172.67.68.14#联通
-172.64.229.164#69.15ms | 速度:78.18MB/s
+8.35.211.49#电信
+172.66.3.135#电信
+104.18.33.57#电信
+172.66.0.130#电信
+172.64.53.63#电信
+104.18.33.181#电信
+104.17.111.20#电信
+104.17.67.130#电信
+104.18.86.139#电信
+104.19.34.196#电信
+104.17.144.255#电信
+91.193.58.6#移动
+172.66.0.68#移动
+172.66.1.237#移动
+104.17.59.88#移动
+104.17.59.158#移动
+104.19.35.146#移动
+104.18.33.229#移动
+104.17.126.94#移动
+104.17.21.106#移动
+104.17.186.198#移动
+198.41.208.149#移动
+104.17.218.213#移动
+104.19.145.125#移动
+172.67.77.56#联通
+172.67.79.46#联通
+172.67.77.208#联通
+172.67.67.179#联通
+104.17.97.171#联通
+172.64.150.64#联通
+104.16.250.185#联通
+172.64.155.133#69.88ms | 速度:60.34MB/s
 cf.0sm.com
 saas.sin.fan
+ikankeji.com
 cf.877774.xyz
 cf.877771.xyz
 cf.900501.xyz
 fn.130519.xyz
 tencentapp.cn
+c.lma.de5.net
+cf.duun.eu.cc
+d.lma.de5.net
 cfip.cfcdn.vip
+cf.3666888.xyz
+www.sloomb.com
 cdn.2020111.xyz
 cf.tencentapp.cn
 cdns.doon.eu.org
@@ -47,11 +66,25 @@ cfip.1323123.xyz
 cfip.xxxxxxxx.tk
 nrtcfdns.zone.id
 xn--b6gac.eu.org
+7.cf.3666888.xyz
+9.cf.3666888.xyz
 bestcf.030101.xyz
 777.ai7777777.xyz
+10.cf.3666888.xyz
+11.cf.3666888.xyz
+jp.cf.3666888.xyz
+123.cf.3666888.xyz
+cf-ip-site.vov.moe
+stores.staples.com
+vip.cf.3666888.xyz
 nrt.xxxxxxxx.nyc.mn
+keji.cf.3666888.xyz
+avido.cf.3666888.xyz
+cfvip.cf.3666888.xyz
 cloudflare.182682.xyz
+sanwang.cf.3666888.xyz
 cloudflare-dl.byoip.top
+cf-cname.xingpingcn.top
 cf.cloudflare.182682.xyz
 cloudflare-ip.mofashi.ltd
 freeyx.cloudflare88.eu.org
