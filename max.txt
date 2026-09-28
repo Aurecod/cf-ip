@@ -1,4 +1,4 @@
-youxuan.cf.090227.xyz#节点更新时间：2026/9/28/22:33 | 更新间隔：每10分钟1次
+youxuan.cf.090227.xyz#节点更新时间：2026/9/29/4:49 | 更新间隔：每10分钟1次
 ct.877774.xyz#⚡ 电信极速
 cmcc.877774.xyz#⚡ 移动极速
 cu.877774.xyz#⚡ 联通极速
@@ -13,43 +13,41 @@ www.visa.cn#Visa中国
 store.ubi.com#Ubisoft
 www.shopify.com#Shopify官方
 staticdelivery.nexusmods.com#NexusMods
-8.35.211.71#电信
-172.66.2.197#电信
-172.66.3.215#电信
-8.35.211.130#电信
-104.21.73.211#电信
-172.64.147.67#电信
-172.64.150.64#电信
-172.64.159.79#电信
-104.17.152.203#电信
-172.64.147.110#电信
-188.164.248.203#电信
-104.19.32.89#移动
-104.17.50.15#移动
-104.19.44.71#移动
-104.19.49.118#移动
-198.41.209.68#移动
-104.17.190.63#移动
-104.19.32.248#移动
-172.65.244.36#移动
-104.16.146.168#移动
-104.16.145.221#移动
-104.17.103.183#移动
-172.64.155.159#移动
-172.65.240.126#移动
-104.26.14.53#联通
-104.26.1.207#联通
-172.67.71.173#联通
-172.67.79.161#联通
-172.65.215.202#联通
-172.65.218.162#联通
-172.65.251.217#联通
-162.159.142.197#联通
-104.18.44.126#70.07ms | 速度:0.14MB/s
-172.64.229.91#63.77ms | 速度:77.18MB/s
+8.35.211.99#电信
+8.35.211.36#电信
+8.35.211.35#电信
+104.18.40.77#电信
+104.17.157.13#电信
+104.18.40.189#电信
+162.159.35.20#电信
+172.64.156.99#电信
+104.17.155.144#电信
+172.64.156.156#电信
+188.164.248.158#电信
+104.18.33.97#移动
+104.19.63.49#移动
+104.17.19.153#移动
+104.17.173.20#移动
+104.17.16.235#移动
+104.17.218.75#移动
+104.16.144.38#移动
+104.17.183.25#移动
+104.19.48.157#移动
+104.19.49.142#移动
+104.17.119.111#移动
+104.16.250.169#移动
+172.65.218.162#移动
+104.26.7.24#联通
+104.26.4.100#联通
+172.67.76.99#联通
+172.67.67.121#联通
+104.18.40.152#联通
+172.64.144.224#联通
+172.64.229.54#47.99ms | 速度:78.36MB/s
+172.64.149.158#69.24ms | 速度:61.91MB/s
 cf.1o.ee
-spring.io
 cf.0sm.com
+linear.app
 saas.sin.fan
 cf.877774.xyz
 cf.877771.xyz
@@ -58,9 +56,9 @@ fn.130519.xyz
 tencentapp.cn
 c.lma.de5.net
 cf.duun.eu.cc
+d.lma.de5.net
 so.360832.xyz
 cfip.cfcdn.vip
-www.090902.xyz
 www.oopt.eu.cc
 cdn.2020111.xyz
 cf.tencentapp.cn
@@ -69,23 +67,23 @@ cfip.1323123.xyz
 cfip.xxxxxxxx.tk
 nrtcfdns.zone.id
 xn--b6gac.eu.org
-6.cf.3666888.xyz
+4.cf.3666888.xyz
 bestcf.030101.xyz
 777.ai7777777.xyz
 cf.blogluo.eu.org
+jp.cf.3666888.xyz
 cf-ip-node.vov.moe
-cf-ip-site.vov.moe
 stores.staples.com
+vip.cf.3666888.xyz
 nrt.xxxxxxxx.nyc.mn
 cf1s.cf.3666888.xyz
-www.leics.police.uk
-www.bangbenjiaju.com
+qocu.cf.3666888.xyz
+cfvip.cf.3666888.xyz
 cloudflare.182682.xyz
-yfvsdf.cf.3666888.xyz
+www.giannidelprete.it
 cloudflare-dl.byoip.top
+blog.raindew.576555.xyz
 cf.cloudflare.182682.xyz
-thebeat.gehealthcare.com
 cloudflare-ip.mofashi.ltd
 freeyx.cloudflare88.eu.org
 login.rockwellautomation.com
-ChinaTelecom.youxuan.zmxf.cc.cd
