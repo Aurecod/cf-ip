@@ -1,90 +1,42 @@
-youxuan.cf.090227.xyz#节点更新时间：2026/9/30/3:19 | 更新间隔：每10分钟1次
+cf.1o.ee#节点更新时间：2026/9/30/7:03 | 更新间隔：每10分钟1次
 ct.877774.xyz#⚡ 电信极速
 cmcc.877774.xyz#⚡ 移动极速
 cu.877774.xyz#⚡ 联通极速
 asia.877774.xyz#⚡ 亚洲极速
 na.877774.xyz#⚡ 美洲极速
 eur.877774.xyz#⚡ 欧洲极速
-time.is#官方优选
-icook.hk#官方优选
-icook.tw#官方优选
-mfa.gov.ua#乌克兰外交部
-www.visa.cn#Visa中国
-store.ubi.com#Ubisoft
-www.shopify.com#Shopify官方
-staticdelivery.nexusmods.com#NexusMods
-8.35.211.44#电信
-8.35.211.35#电信
-8.35.211.224#电信
-172.66.3.106#电信
 104.18.40.77#电信
-104.18.40.152#电信
-104.18.44.151#电信
-172.64.147.67#电信
+162.159.60.59#电信
 172.64.152.94#电信
-188.164.248.207#电信
-188.164.248.172#电信
-172.66.0.49#移动
-104.19.54.16#移动
-172.66.0.185#移动
-104.21.74.71#移动
-198.41.208.48#移动
-104.19.33.183#移动
-104.17.161.121#移动
-104.17.218.147#移动
-104.17.167.175#移动
-104.17.103.183#移动
+172.64.156.99#电信
+172.64.144.224#电信
+104.21.74.7#移动
+104.18.40.152#移动
 104.18.202.103#移动
 172.65.183.186#移动
 162.159.143.235#移动
-104.26.13.75#联通
-104.26.7.168#联通
-172.67.65.142#联通
-172.67.71.157#联通
-104.16.209.82#联通
-104.17.239.11#联通
-104.18.184.16#联通
-162.159.60.59#联通
-172.64.229.222#37.54ms | 速度:77.84MB/s
-cf.1o.ee
+104.18.163.70#联通
+104.16.221.160#联通
+104.18.130.117#联通
+172.64.155.159#联通
+172.64.229.232#40.33ms | 速度:78.25MB/s
+172.64.150.183#68.66ms | 速度:67.11MB/s
+104.18.44.151
 imooo.de
 funko.com
-cf.0sm.com
-saas.sin.fan
-cf.877774.xyz
-cf.877771.xyz
-cf.900501.xyz
-fn.130519.xyz
-tencentapp.cn
 cf.duun.eu.cc
 d.lma.de5.net
-cfip.cfcdn.vip
 cdn.091224.xyz
 www.dbs.com.sg
-cdn.2020111.xyz
 markmonitor.com
-cf.tencentapp.cn
-cdns.doon.eu.org
-cfip.1323123.xyz
-cfip.xxxxxxxx.tk
-nrtcfdns.zone.id
-xn--b6gac.eu.org
 4.cf.3666888.xyz
 www.carousell.sg
-bestcf.030101.xyz
-777.ai7777777.xyz
 cf.blogluo.eu.org
 www.nexusmods.com
 xbjzcdn.sjzhk.top
 cf-ip-node.vov.moe
 cf-ip-site.vov.moe
 stores.staples.com
-nrt.xxxxxxxx.nyc.mn
 edgeone.gh-proxy.org
-cloudflare.182682.xyz
 ex.warspite.dpdns.org
-cloudflare-dl.byoip.top
-cf.cloudflare.182682.xyz
-cloudflare-ip.mofashi.ltd
-freeyx.cloudflare88.eu.org
 ChinaTelecom.youxuan.zmxf.cc.cd
