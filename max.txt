@@ -1,41 +1,39 @@
-cf.1o.ee#节点更新时间：2026/10/8/21:49 | 更新间隔：每10分钟1次
+cf.godns.cc#节点更新时间：2026/10/9/3:50 | 更新间隔：每10分钟1次
 ct.877774.xyz#⚡ 电信极速
 cmcc.877774.xyz#⚡ 移动极速
 cu.877774.xyz#⚡ 联通极速
 asia.877774.xyz#⚡ 亚洲极速
 na.877774.xyz#⚡ 美洲极速
 eur.877774.xyz#⚡ 欧洲极速
+104.18.40.77#电信
 104.18.33.225#电信
+162.159.35.20#电信
+172.64.147.67#电信
 172.64.150.64#电信
-172.64.144.224#电信
-172.64.147.110#电信
-172.64.156.156#电信
 104.17.97.21#移动
-104.17.183.25#移动
-172.64.147.67#移动
-172.64.156.99#移动
-104.17.210.216#移动
-104.17.11.134#联通
+104.17.147.21#移动
+104.19.34.242#移动
+104.16.155.182#移动
+172.64.156.156#移动
 104.17.217.61#联通
-104.18.40.189#联通
-104.18.147.132#联通
-172.64.156.16#68.63ms | 速度:0.10MB/s
+172.64.147.110#联通
+104.18.46.132#68.91ms | 速度:65.15MB/s
+cdn.ddeed.de
+cf.xreak.top
+cmcc.vvvv.ee
 ping.ctrl.li
-cdn.aneko.ink
-cf.130519.xyz
+cf.yj250.bond
+so.360832.xyz
 video.ouo.chat
-www.090902.xyz
-www.dbs.com.sg
-www.oopt.eu.cc
-8.cf.3666888.xyz
+www.galgamex.net
 yx.cf.090227.xyz
 cf.blogluo.eu.org
-123.cf.3666888.xyz
-cdn.cf.3666888.xyz
-cf-ip-node.vov.moe
-cf-ip-site.vov.moe
-avido.cf.3666888.xyz
+stores.staples.com
+uac.cf.3666888.xyz
+qocu.cf.3666888.xyz
+yg8.ygkkk.dpdns.org
 chinwa.cf.090227.xyz
-fw8je9.cf.3666888.xyz
 yfvsdf.cf.3666888.xyz
-sanwang.cf.3666888.xyz
+blog.raindew.576555.xyz
+top-fast.cf.3666888.xyz
+cfyx.aliyun.20237737.xyz
