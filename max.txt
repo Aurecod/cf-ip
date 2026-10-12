@@ -1,42 +1,43 @@
-cf.1o.ee#节点更新时间：2026/10/12/17:46 | 更新间隔：每10分钟1次
+cf.godns.cc#节点更新时间：2026/10/13/3:45 | 更新间隔：每10分钟1次
 ct.877774.xyz#⚡ 电信极速
 cmcc.877774.xyz#⚡ 移动极速
 cu.877774.xyz#⚡ 联通极速
 asia.877774.xyz#⚡ 亚洲极速
 na.877774.xyz#⚡ 美洲极速
 eur.877774.xyz#⚡ 欧洲极速
+172.64.42.1#电信
+104.18.40.77#电信
+104.18.35.200#电信
 104.18.44.151#电信
-162.159.60.59#电信
-172.64.147.67#电信
-172.64.152.94#电信
 172.64.156.99#电信
-104.17.49.51#移动
-104.19.36.205#移动
-104.16.153.218#移动
-104.17.125.125#移动
-172.64.155.159#移动
-104.17.146.69#联通
-104.17.147.21#联通
-172.67.218.32#联通
-104.17.210.216#联通
+104.17.112.91#移动
+104.18.46.111#移动
+104.19.49.198#移动
+172.64.159.79#移动
+104.16.158.108#移动
+104.17.31.33#联通
+104.19.36.205#联通
+162.159.60.59#联通
+104.16.252.200#联通
+172.64.144.224#联通
 104.18.40.100#68.99ms | 速度:0.12MB/s
 104.18.37.247#69.46ms | 速度:0.10MB/s
-cdn.2x.nz
-cdn.2158.cc
-cdn.ddeed.de
-cf.xreak.top
-cmcc.vvvv.ee
+ping.ctrl.li
 c.lma.de5.net
 cdn.sjzhk.top
+f.lma.de5.net
+so.360832.xyz
 www.oopt.eu.cc
+2.cf.3666888.xyz
+4.cf.3666888.xyz
 sb3cdn.sjzhk.top
 www.galgamex.net
-cf.blogluo.eu.org
-cf-ip-site.vov.moe
+yx.cf.090227.xyz
+xbjzcdn.sjzhk.top
+stores.staples.com
+cf1s.cf.3666888.xyz
 yg8.ygkkk.dpdns.org
-chinwa.cf.090227.xyz
-comet57.cf.090227.xyz
-ex.warspite.dpdns.org
-blog.raindew.576555.xyz
+cfvip.cf.3666888.xyz
+eteaf.cf.3666888.xyz
 cf-cname.xingpingcn.top
-login.rockwellautomation.com
+ctsg.cfyx.aliyun.20237737.xyz
