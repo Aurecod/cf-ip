@@ -1,4 +1,4 @@
-cf.1o.ee#节点更新时间：2026/11/14/23:43 | 更新间隔：每10分钟1次
+cf.1o.ee#节点更新时间：2026/11/15/4:08 | 更新间隔：每10分钟1次
 ct.877774.xyz#⚡ 电信极速
 cmcc.877774.xyz#⚡ 移动极速
 cu.877774.xyz#⚡ 联通极速
@@ -6,37 +6,45 @@ asia.877774.xyz#⚡ 亚洲极速
 na.877774.xyz#⚡ 美洲极速
 eur.877774.xyz#⚡ 欧洲极速
 172.64.42.1#电信
-104.18.33.225#电信
-104.18.45.223#电信
-108.162.198.89#电信
-162.159.60.239#电信
+104.18.46.37#电信
+104.18.40.189#电信
+162.159.35.20#电信
+172.64.156.156#电信
 104.18.39.78#移动
 104.18.8.101#移动
-172.66.42.92#移动
-172.65.44.158#移动
+104.18.118.91#移动
 172.67.209.211#移动
-104.19.250.0#联通
-104.16.178.94#联通
-104.18.118.91#联通
-104.18.35.200#联通
-172.64.147.110#联通
-172.64.229.91#70.94ms | 速度:52.06MB/s
+172.64.147.67#联通
+172.64.152.94#联通
+104.17.154.108#联通
+108.162.198.89#联通
+162.159.160.235#联通
+172.64.229.91#43.21ms | 速度:78.52MB/s
+172.64.229.52#44.12ms | 速度:78.32MB/s
+172.64.229.54#38.57ms | 速度:77.22MB/s
+104.18.33.200#74.06ms | 速度:67.90MB/s
+172.64.229.235#45.78ms | 速度:78.40MB/s
+172.64.229.229#47.80ms | 速度:77.91MB/s
+172.64.229.253#44.87ms | 速度:77.18MB/s
+172.64.229.211#53.17ms | 速度:74.14MB/s
+172.64.229.150#50.48ms | 速度:72.61MB/s
+172.64.229.124#43.63ms | 速度:71.85MB/s
 172.64.146.125
 cdn.cnno.de
-cf.duun.eu.cc
-ct.090227.xyz
-www.jimdo.com
+www.bis.gov
+d.lma.de5.net
 www.swowd.com
-cdn.2020111.xyz
-mail.notion.com
-cf.blogluo.eu.org
-cf-ip-node.vov.moe
+cdn.555586.xyz
+cdn.jwcmdr.top
+www.zendesk.com
 stores.staples.com
+tajikistan.mfa.gov.ua
 a.cloudflare.182682.xyz
 m.cloudflare.182682.xyz
+neko.cloudflaree.eu.org
+serviceshub.samsclub.com
 aaa.cloudflare.182682.xyz
 css.cloudflare.182682.xyz
 cf.neko.cloudflaree.eu.org
+test.cloudflare.182682.xyz
 login.rockwellautomation.com
-ChinaTelecom.youxuan.zmxf.cc.cd
-53.fs1.hubspotusercontent-na1.net
