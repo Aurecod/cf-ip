@@ -1,47 +1,43 @@
-cf.1o.ee#节点更新时间：2026/11/15/22:09 | 更新间隔：每10分钟1次
+cdn.cnno.de#节点更新时间：2026/11/16/3:52 | 更新间隔：每10分钟1次
 ct.877774.xyz#⚡ 电信极速
 cmcc.877774.xyz#⚡ 移动极速
 cu.877774.xyz#⚡ 联通极速
 asia.877774.xyz#⚡ 亚洲极速
 na.877774.xyz#⚡ 美洲极速
 eur.877774.xyz#⚡ 欧洲极速
-104.18.39.78#电信
 104.18.40.77#电信
-104.18.33.225#电信
-162.159.60.46#电信
-162.159.60.59#电信
-104.18.1.31#移动
-172.65.182.14#移动
-172.65.44.158#移动
-162.159.160.235#移动
-104.18.40.152#联通
-104.18.42.221#联通
-172.64.144.224#联通
-172.64.156.156#联通
-172.67.168.127#联通
-172.64.229.27#85.26ms | 速度:55.26MB/s
-172.64.229.253#72.06ms | 速度:29.06MB/s
-172.64.229.182#84.54ms | 速度:20.51MB/s
-172.64.229.105#114.83ms | 速度:68.84MB/s
-172.64.229.241#100.37ms | 速度:31.35MB/s
-172.64.229.229#115.32ms | 速度:28.22MB/s
-172.64.229.235#140.26ms | 速度:20.20MB/s
-172.64.146.125
-cdn.cnno.de
-www.bis.gov
-d.lma.de5.net
+104.18.40.189#电信
+104.18.45.223#电信
+172.64.152.94#电信
+172.64.156.130#电信
+104.16.50.104#移动
+172.67.208.79#移动
+104.16.227.254#移动
+104.17.235.237#移动
+172.64.159.151#移动
+172.64.42.1#联通
+172.65.182.14#联通
+108.162.198.89#联通
+172.64.146.125#联通
+172.64.229.54#80.51ms | 速度:63.00MB/s
+172.64.229.16#72.36ms | 速度:34.55MB/s
+172.64.229.105#70.78ms | 速度:78.43MB/s
+172.64.229.194#91.30ms | 速度:33.60MB/s
+www.wto.org
 www.swowd.com
 cdn.555586.xyz
-cdn.jwcmdr.top
-www.zendesk.com
+www.jp.pima.gov
+china.mfa.gov.ua
+cf.blogluo.eu.org
+cf-ip-node.vov.moe
+neko.cloudd.eu.org
 stores.staples.com
-tajikistan.mfa.gov.ua
-a.cloudflare.182682.xyz
-m.cloudflare.182682.xyz
+academy.7shifts.com
+cf-cname.xingpingcn.top
 neko.cloudflaree.eu.org
-serviceshub.samsclub.com
 aaa.cloudflare.182682.xyz
 css.cloudflare.182682.xyz
-cf.neko.cloudflaree.eu.org
 test.cloudflare.182682.xyz
 login.rockwellautomation.com
+ChinaTelecom.youxuan.zmxf.cc.cd
+53.fs1.hubspotusercontent-na1.net

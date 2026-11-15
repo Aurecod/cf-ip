@@ -3,48 +3,47 @@
 ===================================
 【纯 IP 统计】
  电信节点: 5 个
- 移动节点: 4 个
- 联通节点: 5 个
- 优选IP  : 1 个
+ 移动节点: 5 个
+ 联通节点: 4 个
+ 优选IP  : 0 个
  优选域名: 19 个
 -----------------------------------
 【汇总统计】
  原始抓取: 35 条
- 重复过滤: 1 条
- 去重实有: 34 个
+ 重复过滤: 2 条
+ 去重实有: 33 个
 ===================================
 
-104.18.39.78#电信
 104.18.40.77#电信
-104.18.33.225#电信
-162.159.60.46#电信
-162.159.60.59#电信
-104.18.1.31#移动
-172.65.182.14#移动
-172.65.44.158#移动
-162.159.160.235#移动
-104.18.40.152#联通
-104.18.42.221#联通
-172.64.144.224#联通
-172.64.156.156#联通
-172.67.168.127#联通
-172.64.146.125
-cf.1o.ee
+104.18.40.189#电信
+104.18.45.223#电信
+172.64.152.94#电信
+172.64.156.130#电信
+104.16.50.104#移动
+172.67.208.79#移动
+104.16.227.254#移动
+104.17.235.237#移动
+172.64.159.151#移动
+172.64.42.1#联通
+172.65.182.14#联通
+108.162.198.89#联通
+172.64.146.125#联通
 cdn.cnno.de
-www.bis.gov
-d.lma.de5.net
+www.wto.org
 www.swowd.com
 cdn.555586.xyz
-cdn.jwcmdr.top
-www.zendesk.com
+www.jp.pima.gov
+china.mfa.gov.ua
+cf.blogluo.eu.org
+cf-ip-node.vov.moe
+neko.cloudd.eu.org
 stores.staples.com
-tajikistan.mfa.gov.ua
-a.cloudflare.182682.xyz
-m.cloudflare.182682.xyz
+academy.7shifts.com
+cf-cname.xingpingcn.top
 neko.cloudflaree.eu.org
-serviceshub.samsclub.com
 aaa.cloudflare.182682.xyz
 css.cloudflare.182682.xyz
-cf.neko.cloudflaree.eu.org
 test.cloudflare.182682.xyz
 login.rockwellautomation.com
+ChinaTelecom.youxuan.zmxf.cc.cd
+53.fs1.hubspotusercontent-na1.net
