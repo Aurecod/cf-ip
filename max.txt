@@ -1,41 +1,50 @@
-cf.1o.ee#节点更新时间：2026/11/19/0:36 | 更新间隔：每10分钟1次
+cf.1o.ee#节点更新时间：2026/11/19/7:08 | 更新间隔：每10分钟1次
 ct.877774.xyz#⚡ 电信极速
 cmcc.877774.xyz#⚡ 移动极速
 cu.877774.xyz#⚡ 联通极速
 asia.877774.xyz#⚡ 亚洲极速
 na.877774.xyz#⚡ 美洲极速
 eur.877774.xyz#⚡ 欧洲极速
-104.18.40.152#电信
-172.64.152.94#电信
-172.64.156.99#电信
-108.162.198.89#电信
-172.64.156.112#电信
-172.65.40.94#移动
+104.18.32.213#电信
+104.18.42.221#电信
+104.18.44.151#电信
+104.18.45.223#电信
+172.64.155.159#电信
+104.18.199.98#移动
+172.64.158.29#移动
 172.64.159.79#移动
-172.65.43.151#移动
-172.67.219.193#移动
-104.18.40.189#联通
-104.18.45.223#联通
-104.20.55.196#联通
-162.159.35.20#联通
-172.64.158.29#联通
-172.64.229.159#107.43ms | 速度:21.81MB/s
-jobsdb.com
+172.64.146.125#移动
+104.18.40.77#联通
+104.18.43.202#联通
+172.64.144.224#联通
+172.65.222.195#联通
+172.67.219.193#联通
+104.18.46.52#76.49ms | 速度:70.46MB/s
+172.64.229.71#48.75ms | 速度:78.41MB/s
+172.64.229.86#46.48ms | 速度:78.32MB/s
+172.64.229.79#55.47ms | 速度:78.00MB/s
+172.64.150.30#71.97ms | 速度:75.75MB/s
+104.18.37.144#78.12ms | 速度:69.62MB/s
+172.64.229.114#57.24ms | 速度:78.51MB/s
+172.64.229.159#61.64ms | 速度:78.51MB/s
+172.64.229.160#46.85ms | 速度:78.32MB/s
+172.64.229.144#44.99ms | 速度:76.28MB/s
+108.162.198.89
+cdn.2158.cc
 cdn.cnno.de
+dianomi.com
 www.swowd.com
 egov.uscis.gov
-china.mfa.gov.ua
-www.broadcom.com
+www.dbs.com.sg
+4.cf.3666888.xyz
+8.cf.3666888.xyz
+test2.509666.xyz
 cf.blogluo.eu.org
-cf.cf.3666888.xyz
-stores.staples.com
-coke.cf.3666888.xyz
-yx.oracle-img.eu.org
-cf.neko.cloudd.eu.org
-yfvsdf.cf.3666888.xyz
-a.cloudflare.182682.xyz
-aaa.cloudflare.182682.xyz
-css.cloudflare.182682.xyz
-cf.neko.cloudflaree.eu.org
+123.cf.3666888.xyz
+qocu.cf.3666888.xyz
+avido.cf.3666888.xyz
+best.hzample.kdns.fr
+merlin.ns.cloudflare.com
 test.cloudflare.182682.xyz
-ChinaTelecom.youxuan.zmxf.cc.cd
+login.rockwellautomation.com
+4gxb7l7p40.cloudflare-gateway.com
