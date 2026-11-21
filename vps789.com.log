@@ -2,47 +2,48 @@
       数据抓取运行日志概览
 ===================================
 【纯 IP 统计】
- 电信节点: 5 个
- 移动节点: 4 个
+ 电信节点: 4 个
+ 移动节点: 5 个
  联通节点: 4 个
- 优选IP  : 0 个
+ 优选IP  : 1 个
  优选域名: 19 个
 -----------------------------------
 【汇总统计】
  原始抓取: 35 条
- 重复过滤: 3 条
- 去重实有: 32 个
+ 重复过滤: 2 条
+ 去重实有: 33 个
 ===================================
 
-162.159.35.20#电信
+104.18.32.213#电信
+162.159.60.59#电信
 172.64.152.94#电信
-172.64.144.224#电信
-172.64.147.104#电信
-172.64.155.159#电信
+172.64.159.26#电信
 104.18.43.202#移动
-172.64.156.112#移动
-172.67.136.223#移动
-172.67.219.193#移动
-104.17.33.51#联通
-108.162.198.89#联通
-172.64.156.156#联通
-162.159.135.127#联通
-cf.xreak.top
+104.18.91.236#移动
+172.65.182.14#移动
+172.65.187.189#移动
+172.65.254.137#移动
+104.18.33.225#联通
+104.18.46.111#联通
+172.64.158.29#联通
+172.64.159.151#联通
+108.162.198.89
+cf.1o.ee
+cdn.2158.cc
+cdn.cnno.de
+cf-node.1o.ee
 www.swowd.com
-cf.3666888.xyz
-www.jp.pima.gov
-1.cf.3666888.xyz
+www.dbs.com.sg
+www.zendesk.com
+www.broadcom.com
 cf.blogluo.eu.org
-cfsaas.080112.xyz
-cf-ip-node.vov.moe
-stores.staples.com
-keji.cf.3666888.xyz
+cf.cf.3666888.xyz
+cdn.cf.3666888.xyz
+cf-ip-site.vov.moe
 qocu.cf.3666888.xyz
-shanghai.mfa.gov.ua
-cfyx.hwc.qsesvick.top
-fw8je9.cf.3666888.xyz
+eteaf.cf.3666888.xyz
 merlin.ns.cloudflare.com
 css.cloudflare.182682.xyz
-test.cloudflare.182682.xyz
 login.rockwellautomation.com
 ChinaTelecom.youxuan.zmxf.cc.cd
+china-telecom.cname.cloudflare.468123.xyz
