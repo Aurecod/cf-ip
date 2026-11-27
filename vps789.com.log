@@ -3,44 +3,46 @@
 ===================================
 【纯 IP 统计】
  电信节点: 5 个
- 移动节点: 3 个
- 联通节点: 2 个
- 优选IP  : 1 个
- 优选域名: 19 个
+ 移动节点: 4 个
+ 联通节点: 3 个
+ 优选IP  : 0 个
+ 优选域名: 20 个
 -----------------------------------
 【汇总统计】
  原始抓取: 35 条
- 重复过滤: 5 条
- 去重实有: 30 个
+ 重复过滤: 3 条
+ 去重实有: 32 个
 ===================================
 
-104.18.39.78#电信
-104.18.46.37#电信
-104.18.35.200#电信
-104.18.40.189#电信
-172.64.153.226#电信
-104.18.33.225#移动
-198.41.219.91#移动
-172.67.180.139#移动
-104.18.42.221#联通
-162.159.60.239#联通
-108.162.198.89
+172.64.42.1#电信
+172.64.150.64#电信
+172.64.158.29#电信
+108.162.198.89#电信
+172.64.146.125#电信
+104.18.46.37#移动
+162.159.60.239#移动
+162.159.130.208#移动
+162.159.160.235#移动
+104.20.55.61#联通
+162.159.60.46#联通
+162.159.60.59#联通
 cf.1o.ee
-cdn.7zz.cn
+224322.xyz
+ip.skk.moe
 cdn.2158.cc
-cdn.cnno.de
-www.mfyx.cn
+cf.xreak.top
 ping.ctrl.li
-cf-node.1o.ee
 cf-site.1o.ee
+so.360832.xyz
 www.swowd.com
-www.zendesk.com
-10.cf.3666888.xyz
+cfyx.qdqqd.com
+test2.509666.xyz
+cf.blogluo.eu.org
+cfsaas.080112.xyz
 cf-ip-node.vov.moe
-stores.staples.com
-adnjv.cf.3666888.xyz
-eteaf.cf.3666888.xyz
+3913234f.alidns-3.com
+cfyx.hwc.qsesvick.top
+a.cloudflare.182682.xyz
 m.cloudflare.182682.xyz
+cfyx.dnspod.20237737.xyz
 aaa.cloudflare.182682.xyz
-login.rockwellautomation.com
-ChinaTelecom.youxuan.zmxf.cc.cd
